@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sharmaji741
+- 👋 Hi, I’m Lakshay Sharma
 - 👀 I’m interested in HTML CSS JS 
 - 🌱 I’m currently learne more adout coding
 
